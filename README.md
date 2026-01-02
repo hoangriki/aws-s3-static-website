@@ -16,7 +16,7 @@ The website is publicly accessible via an S3 website endpoint.
 - Static Website Hosting
 
 ## 🌐 Live Website
-http://your-bucket-name.s3-website-region.amazonaws.com
+http://resume.s3-website-region.amazonaws.com
 
 ## 📚 What I Learned
 - How to configure an S3 bucket for static website hosting
